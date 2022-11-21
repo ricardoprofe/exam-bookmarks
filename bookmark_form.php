@@ -22,7 +22,7 @@
     <input type="text" name="url" value="" size="80"> <br>
 
     <label>Timestamp</label>
-    <input type="text" name="timestamp" value=""> <br>
+    <input type="text" name="timestamp" readonly value=""> <br>
 
     <input type="submit" name="submit" value="Save">
     <input type="submit" name="import" value="Import CSV">
